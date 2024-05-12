@@ -1,0 +1,1 @@
+Handles errors in which a white square appears on the screen
